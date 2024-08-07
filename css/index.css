@@ -54,8 +54,26 @@
     background-color: #ff66b3;
     height: 200px;
     border: 2px solid gray;
-    margin: 10px;
+    margin:10px;
 display: flex;
   justify-content: space-between;
+    padding:10px;
+}
+.cards-container-7{
+    background-color: #ff66b3;
+    height: 200px;
+    border: 2px solid gray;
+    margin: 10px;
+display: flex;
+  justify-content: space-around;
+    padding: 10px;
+}
+.cards-container-8{
+    background-color: #ff66b3;
+    height: 200px;
+    border: 2px solid gray;
+    margin: 10px;
+display: flex;
+  justify-content:end;
     padding: 10px;
 }
