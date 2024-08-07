@@ -1,0 +1,21 @@
+.cards-container {
+    background-color: #ff66b3;
+    height: 200px;
+    border: 2px solid gray;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    padding: 10px;
+}
+
+.cards-container-2 {
+    background-color: #ff66b3;
+    height: 200px;
+    border: 2px solid gray;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    padding: 10px;
+}
